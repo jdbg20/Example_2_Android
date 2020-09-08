@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">example22</string>
+    <string name="x1">x1</string>
+    <string name="x2">x2</string>
+    <string name="y1">y1</string>
+    <string name="y2">y2</string>
+    <string name="Aleatorio">Aleatorio</string>
+    <string name="Distancia">Distancia</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="btnpuntomedio">Punto medio</string>
+    <string name="btnpendiente">Pendiente</string>
+    <string name="btncuadrante">Cuadrante</string>
+</resources>
